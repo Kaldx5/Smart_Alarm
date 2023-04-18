@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Smart_Alarm</string>
+    <string name="Timer">Timer</string>
+    <string name="Alarm">Alarm</string>
+    <string name="StopWatch">StopWatch</string>
+    <string name="Add">Add</string>
 </resources>
